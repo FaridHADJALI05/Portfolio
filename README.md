@@ -35,17 +35,17 @@ star schema ready for Power BI.
 Power BI dashboard for sales performance monitoring (revenue, margin, customer cohorts).
 - **Stack**: Power BI, DAX, Power Query, SQL Server
 - **Result**: cut monthly reporting time from X h to Y h
-- 🔍 [Demo / screenshots](link)
+- 🔍 [Demo / screenshots](link)-- In progress
 
 ### 🧭 [product-roadmap-data-platform](link-to-repo)
 Sample product roadmap and backlog for a data platform (fictional or anonymized use case).
 - **Deliverables**: quarterly roadmap, user stories, acceptance criteria, success KPIs
-- **Context**: business trade-offs vs. technical constraints
+- **Context**: business trade-offs vs. technical constraints )-- In progress
 
 ### ✅ [data-quality-framework](link-to-repo)
 PySpark-based data quality framework (completeness, uniqueness, freshness checks).
 - **Stack**: PySpark, Great Expectations (or custom), Python
-- **Result**: automated detection of XX% of anomalies before production release
+- **Result**: automated detection of XX% of anomalies before production release)-- In progress
 
 ---
 

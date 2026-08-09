@@ -40,12 +40,12 @@ Power BI dashboard for sales performance monitoring (revenue, margin, customer c
 ### 🧭 [product-roadmap-data-platform](link-to-repo)
 Sample product roadmap and backlog for a data platform (fictional or anonymized use case).
 - **Deliverables**: quarterly roadmap, user stories, acceptance criteria, success KPIs
-- **Context**: business trade-offs vs. technical constraints )-- In progress
+- **Context**: business trade-offs vs. technical constraints )
 
 ### ✅ [data-quality-framework](link-to-repo)
 PySpark-based data quality framework (completeness, uniqueness, freshness checks).
 - **Stack**: PySpark, Great Expectations (or custom), Python
-- **Result**: automated detection of XX% of anomalies before production release)-- In progress
+
 
 ---
 

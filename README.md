@@ -5,7 +5,7 @@
 I design and drive data solutions end to end: from defining business needs (Product Owner) to shipping
 reliable production pipelines (Databricks/Spark), through clear decision-ready dashboards (Power BI).
 
-🔗 [LinkedIn](www.linkedin.com/in/farid-hadjali) · 📧 [m.farid.hadjali@gmail.com](mailto:m.farid.hadjali@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/farid-hadjali/) · 📧 [m.farid.hadjali@gmail.com](mailto:m.farid.hadjali@gmail.com)
 
 ---
 
@@ -51,8 +51,8 @@ PySpark-based data quality framework (completeness, uniqueness, freshness checks
 
 ## 📜 Certifications
 - [ ] Microsoft Power BI Data Analyst (PL-300)
-- [ ] Databricks Certified Data Engineer Associate
-- [ ] Certified Scrum Product Owner (CSPO) or equivalent
+- [ ] Databricks Certified Data Engineer Associate (in progress)
+- [ ] Certified Scrum Product Owner (PSPO)
 
 ---
 

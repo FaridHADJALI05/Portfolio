@@ -29,7 +29,7 @@ Complete Bronze/Silver/Gold datalakehouse implementation on Databricks, from raw
 star schema ready for Power BI.
 - **Stack**: PySpark, Delta Lake, Auto Loader, Unity Catalog, Databricks Workflows
 - **Result**: end-to-end pipeline handling millions of rows/day with governed, queryable output
-- 📓 [Notebook](link)
+- 📓 [Notebook](databricks-medallion-lakehouse/Notebooks/01_medallion_lakehouse_databricks_v2_1.py)
 
 ### 📊 [powerbi-sales-dashboard](link-to-repo)
 Power BI dashboard for sales performance monitoring (revenue, margin, customer cohorts).

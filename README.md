@@ -45,7 +45,7 @@ Sample product roadmap and backlog for a data platform (fictional or anonymized 
 ### ✅ [data-quality-framework](link-to-repo)
 PySpark-based data quality framework (completeness, uniqueness, freshness checks).
 - **Stack**: PySpark, Great Expectations (or custom), Python
-- **Result**: automated detection of XX% of anomalies before production release)-- In progress
+
 
 ---
 
